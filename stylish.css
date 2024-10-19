@@ -1,0 +1,1096 @@
+#search input{
+    border: 0;
+    outline: none;
+    background: transparent;
+}
+body{
+    overflow-x: hidden;
+}
+#search{
+    padding: 8px;
+    margin-top: 10px;
+    border-radius: 20px;
+}
+#text-area{
+    width: 100%;
+    height: 100vh;
+    background-image: url(images/Group\ 68.png);
+    background-position: center;
+    background-size: cover;
+}
+#text1 h1{
+    font-size: 100px;
+    padding-top: 180px;
+    font-family: "Dongle";
+    font-weight: 400;
+    line-height: 65px; 
+}
+#text1 p{
+    font-size: 40px;
+    font-family: "Dongle";
+    font-weight: 400;
+    line-height: 30px;
+}
+#bul{
+    margin-left: 620px;
+    margin-top: 15px;
+    border-radius: 13px;
+}
+#head{
+    position: relative;
+}
+#text2 h2{
+    font-size: 70px;
+    font-weight: 700;
+    font-family: "Dongle";
+}
+#text2 h1{
+    font-size: 90px;
+    font-family: "Dancing Script";
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    color: #F0F0F0;
+    position: absolute;
+    left: 360px;
+    top: -5px;
+    z-index: -1;
+}
+#text2 p{
+    color: #67666A;
+    font-size: 35px;
+    font-family: "Dongle";
+    font-weight: 300;
+    line-height: 25px;
+}
+#main{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 100px;
+    margin-bottom: 50px;
+    position: relative;
+}
+#rem{
+    margin-left: -20px;
+    width: 100%;
+}
+#box1{
+    border: 1px solid #C10000;
+    box-shadow: 0px 7px 16px 7px #0000001A;
+    border-radius: 16px;
+    display: flex;
+    width: 20%;
+    justify-content: space-between;
+    padding: 10px;
+}
+#box2{
+    border: 1px solid #FFFFFF;
+    box-shadow: 0px 7px 16px 7px #0000001A;
+    border-radius: 16px;
+    display: flex;
+    width: 20%;
+    justify-content: space-between;
+    padding: 10px;
+}
+#box3{
+    border: 1px solid #FFFFFF;
+    box-shadow: 0px 7px 16px 7px #0000001A;
+    border-radius: 16px;
+    display: flex;
+    width: 20%;
+    justify-content: space-between;
+    padding: 10px;
+}
+#box4{
+    border: 1px solid #FFFFFF;
+    box-shadow: 0px 7px 16px 7px #0000001A;
+    border-radius: 16px;
+    display: flex;
+    width: 12%;
+    justify-content: space-between;
+    padding: 10px;
+}
+#plus{
+    width: 41px;
+    height: 41px;
+    margin-top: 17px;
+}
+#box1 h4{
+    margin-top: 25px;
+}
+#box2 h4{
+    margin-top: 25px;
+}
+#box3 h4{
+    margin-top: 25px;
+}
+#box4 h4{
+    margin-top: 25px;
+    margin-left: 15px;
+}
+#text3{
+    position: absolute;
+    top: 10px;
+    font-size: 60px;
+    color: #FFFFFF;
+    font-weight: 400;
+    font-family: "Dongle";
+    margin-top: 8px;
+    margin-left: 10px;
+}
+#text4 h1{
+    font-family: "Dongle";
+    font-size: 70px;
+    color: #000000;
+    margin-left: 60px;
+    margin-top: 50px;
+}
+#order{
+    position: relative;
+    top: 40px;
+}
+#up{
+    border: 1px solid #67666A;
+    background-color: #67666A;
+    width: 80%;
+    display: flex;
+    justify-content: space-between;
+    position: absolute;
+    left: 280px;
+    top: 10px;
+    z-index: -1;
+}
+#up h4{
+    margin-left: 330px;
+    color: #FFFFFF;
+}
+#main2{
+    display: flex;
+}
+#links{
+    margin-top: 70px;
+    margin-left: 20px;
+}
+#links ul li{
+    padding: 5px;
+}
+#links a{
+    text-decoration: none;
+    color: #000000;
+    font-family: "Dongle";
+    font-size: 40px;
+    font-weight: 400;
+}
+#links2{
+    margin-top: 70px;
+    margin-left: 20px;
+}
+#links2 ul li{
+    padding: 2px;
+}
+#links2 a{
+    text-decoration: none;
+    color: #000000;
+    font-family: "Dongle";
+    font-size: 40px;
+    font-weight: 400;
+}
+#moon{
+    margin-left: 250px;
+    margin-top: 100px;
+    background-color: #C10000;
+    border-radius: 10px;
+}
+#up2{
+    border: 1px solid #67666A;
+    background-color: #67666A;
+    width: 80%;
+    display: flex;
+    justify-content: space-between;
+    position: absolute;
+    left: 14px;
+    top: 10px;
+    z-index: -1;
+}
+#up2 h4{
+    margin-left: 30px;
+    color: #FFFFFF;
+}
+#order2{
+    position: relative;
+    top: 180px;
+}
+#pizza2{
+    margin-left: 225px;
+}
+#links3{
+    margin-top: 70px;
+    margin-left: 50px;
+}
+#links3 ul li{
+    padding: 5px;
+}
+#links3 a{
+    text-decoration: none;
+    color: #000000;
+    font-family: "Dongle";
+    font-size: 40px;
+    font-weight: 400;
+}
+#links4{
+    margin-top: 70px;
+    margin-left: 30px;
+}
+#links4 ul li{
+    padding: 2px;
+}
+#links4 a{
+    text-decoration: none;
+    color: #000000;
+    font-family: "Dongle";
+    font-size: 40px;
+    font-weight: 400;
+}
+#moon2{
+    margin-left: 150px;
+    margin-top: 60px;
+    background-color: #C10000;
+    border-radius: 10px;
+    width: 70%;
+}
+#order3{
+    position: relative;
+    top: 310px;
+}
+#pizza3{
+    margin-left: -15px;
+    margin-top: -17px;
+}
+
+#con{
+    margin-top: 400px;
+}
+
+
+#salet{
+    margin-top: 150px;
+    position: relative;
+}
+#imagess img{
+    width: 100%;
+    margin-left: 1px;
+}
+#text5 h4{
+    position: absolute;
+    top: 320px;
+    left: 40px;
+    font-family: "Dongle";
+    font-size: 70px;
+    font-weight: 400;
+    color: #FFFFFF;
+}
+#text6 h4{
+    position: absolute;
+    top: 320px;
+    left: 500px;
+    font-family: "Dongle";
+    font-size: 70px;
+    font-weight: 400;
+    color: #FFFFFF;
+}
+#text7 h4{
+    position: absolute;
+    top: 320px;
+    left: 950px;
+    font-family: "Dongle";
+    font-size: 70px;
+    font-weight: 400;
+    color: #FFFFFF;
+}
+
+#form{
+    margin: 150px;
+}
+#ram{
+    border: 1px solid #F6F6F6;
+    background-color: #F6F6F6;
+    border-radius: 24px;
+    width: 70%;
+    margin: auto;
+    padding-bottom: 40px;
+    padding-left: 20px;
+    padding-right: 30px;
+}
+#text9 h1{
+    font-family: "Dongle";
+    font-size: 70px;
+    font-weight: 700;
+    line-height: 60px;
+    margin-top: 40px;
+}
+#home{
+    margin-top: 30px;
+}
+#search1{
+    border: 1px solid #FFFFFF;
+    background-color: #FFFFFF;
+    padding: 15px;
+    border-radius: 20px;
+}
+#search1 input{
+    border: 0;
+    outline: none;
+    background: transparent;
+}
+#search2{
+    border: 1px solid #FFFFFF;
+    background-color: #FFFFFF;
+    padding: 15px;
+    border-radius: 20px;
+    margin-top: 15px;
+}
+#search2 input{
+    border: 0;
+    outline: none;
+    background: transparent;
+}
+#search3{
+    border: 1px solid #FFFFFF;
+    background-color: #FFFFFF;
+    padding: 15px;
+    border-radius: 20px;
+    margin-top: 30px;
+}
+#search3 input{
+    border: 0;
+    outline: none;
+    background: transparent;
+}
+#bol{
+    display: flex;
+    justify-content: center;
+    margin-top: 40px;
+}
+
+#footer{
+    background-color: #F6F6F6;
+}
+#footer-box{
+    width: 80%;
+    margin: auto;
+    padding-top: 50px;
+}
+#foot-head h4{
+    font-family: "Dongle";
+    font-size: 48px;
+    font-weight: 700;
+    margin-left: 30px;
+}
+#lio ul li{
+    list-style: none;
+    padding: 5px;
+}
+#lio a{
+    text-decoration: none;
+    color: #67666A;
+}
+#lio2 ul li{
+    list-style: none;
+    padding: 5px;
+}
+#lio2 a{
+    text-decoration: none;
+    color: #67666A;
+}
+#lio3{
+    color: #67666A;
+    margin-top: 10px;
+}
+.fa-instagram{
+    margin-left: 10px;
+}
+.fa-facebook{
+    margin-left: 10px;
+}
+.fa-twitter{
+    margin-left: 10px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media (max-width:991px) and (min-width:768px){
+    #bul{
+        margin-left: 320px;
+        margin-top: 15px;
+        border-radius: 13px;
+    }
+    #text-area{
+        width: 100%;
+        height: 70vh;
+        background-image: url(images/Group\ 68.png);
+        background-position: center;
+        background-size: cover;
+    }
+    #text2 h1{
+        font-size: 90px;
+        font-family: "Dancing Script";
+        font-optical-sizing: auto;
+        font-weight: 400;
+        font-style: normal;
+        color: #F0F0F0;
+        position: absolute;
+        left: 80px;
+        top: -5px;
+        z-index: -1;
+    }
+    #box4{
+        display: none;
+    }
+    #rem{
+        margin-left: -20px;
+        width: 80%;
+        margin-top: 15px;
+    }
+    #text3{
+        position: absolute;
+        top: 10px;
+        font-size: 50px;
+        color: #FFFFFF;
+        font-weight: 400;
+        font-family: "Dongle";
+        margin-top: 12px;
+        margin-left: 5px;
+    }
+    #box1{
+        border: 1px solid #C10000;
+        box-shadow: 0px 7px 16px 7px #0000001A;
+        border-radius: 16px;
+        display: flex;
+        width: 25%;
+        justify-content: space-between;
+        padding: 10px;
+        margin-left: -40px;
+    }
+    #box2{
+        border: 1px solid #FFFFFF;
+        box-shadow: 0px 7px 16px 7px #0000001A;
+        border-radius: 16px;
+        display: flex;
+        width: 25%;
+        justify-content: space-between;
+        padding: 10px;
+    }
+    #box3{
+        border: 1px solid #FFFFFF;
+        box-shadow: 0px 7px 16px 7px #0000001A;
+        border-radius: 16px;
+        display: flex;
+        width: 25%;
+        justify-content: space-between;
+        padding: 10px;
+    }
+    #pizza{
+        width: 358px;
+        height: 195px;
+    }
+    #pizza3{
+        width: 555px;
+        height: 230px;
+    }
+    #up{
+        border: 1px solid #67666A;
+        background-color: #67666A;
+        width: 65%;
+        display: flex;
+        justify-content: space-between;
+        position: absolute;
+        left: 280px;
+        top: 10px;
+        z-index: -1;
+    }
+    #up h4{
+        margin-left: 140px;
+        color: #FFFFFF;
+        font-size: 10px;
+        margin-top: 10px;
+    }
+    #links a{
+        text-decoration: none;
+        color: #000000;
+        font-family: "Dongle";
+        font-size: 30px;
+        font-weight: 400;
+    }
+    #links{
+        margin-top: 70px;
+        margin-left: 0px;
+    }
+    #links2{
+        margin-top: 70px;
+        margin-left: 100px;
+    }
+    #links2 ul li{
+        padding: 2px;
+    }
+    #links2 a{
+        text-decoration: none;
+        color: #000000;
+        font-family: "Dongle";
+        font-size: 30px;
+        font-weight: 400;
+    }
+    #moon{
+        margin-left: 20px;
+        margin-top: 40px;
+        background-color: #C10000;
+        border-radius: 10px;
+        width: 130%;
+    }
+    #links ul li{
+        padding: 1px;
+        width: 170%;
+    }
+    #order2{
+        overflow-x: hidden;
+        margin-top: 80px;
+    }
+    #pizza2{
+        margin-left: 20px;
+        width: 358px;
+        height: 195px;
+    }
+    #moon2{
+        margin-left: 20px;
+        margin-top: 20px;
+        background-color: #C10000;
+        border-radius: 10px;
+        width: 110%;
+    }
+    #up2{
+        border: 1px solid #67666A;
+        background-color: #67666A;
+        width: 65%;
+        display: flex;
+        justify-content: space-between;
+        position: absolute;
+        left: 10px;
+        top: 10px;
+        z-index: -1;
+    }
+    #up2 h4{
+        margin-left: 10px;
+        color: #FFFFFF;
+        font-size: 15px;
+        margin-top: 10px;
+    }
+    #text5 h4{
+        position: absolute;
+        top: 150px;
+        left: 30px;
+        font-family: "Dongle";
+        font-size: 50px;
+        font-weight: 400;
+        color: #FFFFFF;
+    }
+    #text6 h4{
+        position: absolute;
+        top: 150px;
+        left: 300px;
+        font-family: "Dongle";
+        font-size: 50px;
+        font-weight: 400;
+        color: #FFFFFF;
+    }
+    #text7 h4{
+        position: absolute;
+        top: 150px;
+        left: 550px;
+        font-family: "Dongle";
+        font-size: 50px;
+        font-weight: 400;
+        color: #FFFFFF;
+    }
+    #con{
+        margin-top: 550px;
+    }
+
+    #ram{
+        border: 1px solid #F6F6F6;
+        background-color: #F6F6F6;
+        border-radius: 24px;
+        width: 90%;
+        margin: auto;
+        padding-bottom: 40px;
+        padding-left: 20px;
+        padding-right: 30px;
+    }
+    #text9 h1{
+        font-family: "Dongle";
+        font-size: 50px;
+        font-weight: 700;
+        line-height: 40px;
+        margin-top: 40px;
+    }
+    #home{
+        margin-top: 30px;
+    }
+    #search1{
+        border: 1px solid #FFFFFF;
+        background-color: #FFFFFF;
+        padding: 17px;
+        border-radius: 20px;
+    }
+    #search1 input{
+        border: 0;
+        outline: none;
+        background: transparent;
+    }
+    #search2{
+        border: 1px solid #FFFFFF;
+        background-color: #FFFFFF;
+        padding: 17px;
+        border-radius: 20px;
+        margin-top: 15px;
+    }
+    #search2 input{
+        border: 0;
+        outline: none;
+        background: transparent;
+    }
+    #search3{
+        border: 1px solid #FFFFFF;
+        background-color: #FFFFFF;
+        padding: 15px;
+        border-radius: 20px;
+        margin-top: 30px;
+        width: 92%;
+        margin-left: 12px;
+        height: 170px;
+    }
+    #search3 input{
+        border: 0;
+        outline: none;
+        background: transparent;
+    }
+    #bol{
+        display: flex;
+        justify-content: center;
+        margin-top: 40px;
+    }
+    #footer-box{
+        width: 100%;
+        margin: auto;
+        padding-top: 50px;
+    }
+    #lio2 a{
+        font-size: 10px;
+    }
+    
+    
+    
+
+}
+@media (max-width:575px) and (min-width:320px){
+    #text-area{
+        width: 100%;
+        height: 65vh;
+        background-image: url(images/Group\ 68.png);
+        background-position: center;
+        background-size: cover;
+    }
+    #text1 h1{
+        font-size: 50px;
+        padding-top: 150px;
+        font-family: "Dongle";
+        font-weight: 400;
+        line-height: 40px; 
+    }
+    #text1 p{
+        font-size: 20px;
+        font-family: "Dongle";
+        font-weight: 400;
+        line-height: 20px;
+    }
+    #bul{
+        margin-left: 120px;
+        margin-top: 10px;
+        border-radius: 13px;
+    }
+    #text2 h2{
+        font-size: 45px;
+        font-weight: 700;
+        font-family: "Dongle";
+        margin-top: -30px;
+    }
+    #text2 h1{
+        font-size: 50px;
+        font-family: "Dancing Script";
+        font-optical-sizing: auto;
+        font-weight: 400;
+        font-style: normal;
+        color: #F0F0F0;
+        position: absolute;
+        left: 20px;
+        top: -5px;
+        z-index: -1;
+    }
+    #text2 p{
+        color: #67666A;
+        font-size: 20px;
+        font-family: "Dongle";
+        font-weight: 300;
+        line-height: 15px;
+    }
+    #im{
+        width: 80%;
+    }
+
+    #box4{
+        display: none;
+    }
+    #rem{
+        margin-left: -20px;
+        width: 90%;
+        margin-top: 5px;
+    }
+    #text3{
+        position: absolute;
+        top: 10px;
+        font-size: 30px;
+        color: #FFFFFF;
+        font-weight: 400;
+        font-family: "Dongle";
+        margin-top: 3px;
+        margin-left: 3px;
+    }
+    #box1{
+        border: 1px solid #C10000;
+        box-shadow: 0px 7px 16px 7px #0000001A;
+        border-radius: 16px;
+        display: flex;
+        width: 30%;
+        justify-content: space-between;
+        padding: 5px;
+        margin-left: -70px;
+    }
+    #kim{
+        width: 27px;
+        height: 31px;
+        margin-top: 5px;
+    }
+    #box1 h4{
+        margin-top: 15px;
+        margin-left: -30px;
+        font-size: 15px;
+    }
+    #plus{
+        width: 21px;
+        height: 21px;
+        margin-top: 15px;
+        margin-left: -30px;
+    }
+    #box2{
+        border: 1px solid #FFFFFF;
+        box-shadow: 0px 7px 16px 7px #0000001A;
+        border-radius: 16px;
+        display: flex;
+        width: 30%;
+        justify-content: space-between;
+        padding: 5px;
+        margin-left: -30px;
+    }
+    #box2 h4{
+        margin-top: 15px;
+        margin-left: -30px;
+        font-size: 15px;
+    }
+    #box3{
+        border: 1px solid #FFFFFF;
+        box-shadow: 0px 7px 16px 7px #0000001A;
+        border-radius: 16px;
+        display: flex;
+        width: 10%;
+        justify-content: space-between;
+        padding: 10px;
+        display: none;
+    }
+    #text4 h1{
+        font-family: "Dongle";
+        font-size: 40px;
+        color: #000000;
+        margin-left: 20px;
+        margin-top: 50px;
+    }
+    #pizza{
+        width: 80px;
+        height: 80px;
+    }
+    #pizza3{
+        width: 150px;
+        height: 130px;
+    }
+    #order3{
+        margin-top: -60px;
+    }
+    #up{
+        border: 1px solid #67666A;
+        background-color: #67666A;
+        width: 76%;
+        display: flex;
+        justify-content: space-between;
+        position: absolute;
+        left: 100px;
+        top: 5px;
+        z-index: -1;
+    }
+    #up h4{
+        margin-left: 65px;
+        color: #FFFFFF;
+        font-size: 8px;
+        margin-top: 5px;
+    }
+    #links a{
+        text-decoration: none;
+        color: #000000;
+        font-family: "Dongle";
+        font-size: 15px;
+    }
+    #links{
+        margin-top: 40px;
+        margin-left: 0px;
+    }
+    #links2{
+        margin-top: 40px;
+        margin-left: 50px;
+    }
+    #links2 ul li{
+        padding: 2px;
+    }
+    #links2 a{
+        text-decoration: none;
+        color: #0c0909;
+        font-family: "Dongle";
+        font-size: 15px;
+        font-weight: 400;
+    }
+    #moon{
+        margin-left: -20px;
+        margin-top: 10px;
+        background-color: #C10000;
+        border-radius: 10px;
+        width: 130%;
+        font-size: 7px;
+    }
+    #links ul li{
+        width: 200%;
+        line-height: 10px;
+    }
+
+    #order2{
+        overflow-x: hidden;
+        margin-top: -10px;
+    }
+    #pizza2{
+        margin-left: 10px;
+        width: 140px;
+        height:100px;
+    }
+    #moon2{
+        margin-left: -20px;
+            margin-top: -10px;
+            background-color: #C10000;
+            border-radius: 10px;
+            width: 130%;
+            font-size: 7px;
+    }
+    #up2{
+        border: 1px solid #67666A;
+        background-color: #67666A;
+        width: 76%;
+        display: flex;
+        justify-content: space-between;
+        position: absolute;
+        left: 10px;
+        top: 5px;
+        z-index: -1;
+    }
+    #up2 h4{
+        margin-left: 10px;
+        color: #FFFFFF;
+        font-size: 10px;
+        margin-top: 10px;
+    }
+    #links3 a{
+        text-decoration: none;
+        color: #000000;
+        font-family: "Dongle";
+        font-size: 15px;
+    }
+    #links3{
+        margin-top: 40px;
+        margin-left: 0px;
+    }
+    #links4{
+        margin-top: 40px;
+        margin-left: 50px;
+    }
+    #links4 ul li{
+        padding: 2px;
+    }
+    #links4 a{
+        text-decoration: none;
+        color: #0c0909;
+        font-family: "Dongle";
+        font-size: 15px;
+        font-weight: 400;
+    }
+    #links3 ul li{
+        width: 200%;
+        line-height: 10px;
+    }
+    #con{
+        margin-top: 450px;
+    }
+    #con img{
+        width: 60%;
+    }
+    #salet{
+        margin-top: 70px;
+    }
+    #imagess img{
+        width: 100%;
+        height: 220px;
+        margin-left: 1px;
+    }
+    #imagess{
+        display: flex;
+        gap: 20px;
+    }
+    #text5 h4{
+        position: absolute;
+        top: 120px;
+        left: 40px;
+        font-family: "Dongle";
+        font-size: 50px;
+        font-weight: 400;
+        color: #FFFFFF;
+    }
+    #text6 h4{
+        position: absolute;
+        top: 360px;
+        left: 40px;
+        font-family: "Dongle";
+        font-size: 50px;
+        font-weight: 400;
+        color: #FFFFFF;
+    }
+    #text7 h4{
+        position: absolute;
+        top: 600px;
+        left: 40px;
+        font-family: "Dongle";
+        font-size: 50px;
+        font-weight: 400;
+        color: #FFFFFF;
+    }
+
+
+    #form{
+        width: 100%;
+        margin-left: -1px;
+    }
+    #ram{
+        border: 1px solid #F6F6F6;
+        background-color: #F6F6F6;
+        border-radius: 24px;
+        width: 100%;
+    }
+    #text9 h1{
+        font-family: "Dongle";
+        font-size: 50px;
+        font-weight: 700;
+        line-height: 40px;
+        margin-top: 40px;
+    }
+    #home{
+        margin-top: 30px;
+    }
+    #search1{
+        border: 1px solid #FFFFFF;
+        background-color: #FFFFFF;
+        padding: 17px;
+        border-radius: 20px;
+    }
+    #search1 input{
+        border: 0;
+        outline: none;
+        background: transparent;
+    }
+    #search2{
+        border: 1px solid #FFFFFF;
+        background-color: #FFFFFF;
+        padding: 17px;
+        border-radius: 20px;
+        margin-top: 15px;
+    }
+    #search2 input{
+        border: 0;
+        outline: none;
+        background: transparent;
+    }
+    #search3{
+        border: 1px solid #FFFFFF;
+        background-color: #FFFFFF;
+        padding: 15px;
+        border-radius: 20px;
+        margin-top: 30px;
+        width: 92%;
+        margin-left: 12px;
+        height: 170px;
+    }
+    #search3 input{
+        border: 0;
+        outline: none;
+        background: transparent;
+    }
+    #bol{
+        display: flex;
+        justify-content: center;
+        margin-top: 40px;
+    }
+    #footer-box{
+        width: 100%;
+        padding-top: 50px;
+    }
+    #pol{
+        margin-left: 30px;
+        margin-top: 10px;
+    }
+    
+    
+    
+
+}
